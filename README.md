@@ -1,7 +1,7 @@
 Input-Help-Text
 ===============
 
-	Fancy input box help text.
+	Fancy input box help text for jQuery.
 
 	This jQuery function helpText can be used to display helpful text to 
 	the user in the input field it self. The help text is displayed until
