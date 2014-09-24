@@ -1,0 +1,8 @@
+/*
+    Created on : Sep 24, 2014, 3:32:27 PM
+    Author     : rlc
+    style of dimmed help text
+*/
+
+.helptext_dimmed { font-style: italic; color: #9c9c9c; }
+
