@@ -5,7 +5,7 @@ Input-Help-Text
 
 	This jQuery function helpText can be used to display helpful text to 
 	the user in the input field it self. The help text is displayed until
-	the user starts typing in the input box. if the input box is left blank 
+	the user starts typing in the input box. If the input box is left blank 
 	the help text is displayed once again. Once the form is submitted if the
 	help text has not been replaced it is removed and replaced wit a blank 
 	string. You may also specify a class to use for the help text. Your may 
